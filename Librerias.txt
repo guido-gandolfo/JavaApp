@@ -1,0 +1,11 @@
+Las librerias externas utilizadas son:
+- RXTXcomm
+- Javamail
+- JFreeChart
+- JCalendar y JChooser
+
+Dichas librerias se encuentran en la carpeta liberias.
+
+Para la ejecucion del programa en arduino se necesita una libreria de temperatura, la cual se encuentra en la carpeta de Arduino en un archivo comprimido con el nombre de DHT11.
+
+Para ejecutar la aplicacion en java, la clase InterfazMain es la principal donde se encuentra el main.
